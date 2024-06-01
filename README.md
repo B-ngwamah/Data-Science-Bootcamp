@@ -1,2 +1,2 @@
 # Data-Science-Bootcamp
-DS Bootcamp repository 
+DS Bootcamp repository containing tasks from Bootcamp.
